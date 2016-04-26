@@ -8,8 +8,7 @@
 body {
 	margin: 0;
 }
-
-h1 {
+header {
 	background-color: lightskyblue;
 	width: 100%;
 }
