@@ -11,7 +11,7 @@ body {
 
 h1 {
 	background-color: lightskyblue;
-	margin: 0 auto;
+	width: 100%;
 }
 
 .container {
