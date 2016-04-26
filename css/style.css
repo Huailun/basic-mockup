@@ -25,6 +25,8 @@ header {
 
  .pull-left{
 	float: left;
+	 width: 250px;
+	 height: 185px;
  }
 
 	.pull-right {
