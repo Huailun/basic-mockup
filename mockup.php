@@ -14,7 +14,8 @@
 				max-width: 100%;
 			}
 		</style>
-		<title>Basic CSS Mockup</title>
+		<title>Basic CSS</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
 		<img src="img/mockup.jpg" alt="mockup example" />
