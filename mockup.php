@@ -15,7 +15,7 @@
 			}
 		</style>
 		<title>Basic CSS</title>
-		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body>
 		<img src="img/mockup.jpg" alt="mockup example" />
