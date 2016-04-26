@@ -17,6 +17,11 @@ header {
 	background-color: lightskyblue;
 }
 
+ footer {
+	 background-color: black;
+	 color: gray;
+	 font-size: 75%;
+ }
 .container {
 	margin: 0 auto;
 	width: 1170px;
