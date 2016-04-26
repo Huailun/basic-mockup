@@ -5,11 +5,16 @@
 * Edit and add CSS rules as you see fit! :D
 ********************************************/
 
-html,
+.container {
+		width: 960px;
+		margin: 0 auto;
+}
 body {
-	background-color: lavender;
-	font-family: Algerian;
 	margin: 0;
+}
+
+h1 {
+	background-color: aquamarine;
 }
 
 .container {
